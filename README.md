@@ -1,4 +1,4 @@
-##ChatGPT AI Chatbot App
+## ChatGPT AI Chatbot App
 
 ![chat_gpt_1](https://github.com/ToobaMujahid/AI-chatbot-flutter/assets/170396943/dc5185fd-3ae2-4d8c-ae3b-4e468ea95ca3)
 
