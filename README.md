@@ -5,7 +5,7 @@
 
 A Chatbot chat app built using the Flutter framework and OpenAI's GPT-3 language model.
 
-##Features
+## Features
 
 - Natural language understanding
 - Human-like conversation
@@ -13,12 +13,12 @@ A Chatbot chat app built using the Flutter framework and OpenAI's GPT-3 language
 - Lightweight, easy to integrate with other apps
 - Open-source
 
-##Prerequisites
+## Prerequisites
 
 - Flutter SDK
 - API key for OpenAI GPT-3
 
-##Getting Started
+## Getting Started
 
 - Clone the repository
 - Run flutter pub get to install dependencies
